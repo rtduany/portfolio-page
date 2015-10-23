@@ -1,2 +1,2 @@
 # portfolio-page
-portfolio page is a website that contains IT projects
+A portfolio template with expandable projects and a full-page navigation inspired by Primer app.
